@@ -2,7 +2,7 @@ Package: Modified
 Version: 0.90-1
 Section: Games and Amusement
 Priority: optional
-Architecture: amd64
+Architecture: apk
 Maintainer: 
 Description: a text-based minesweeper
  KSKSKSSKSKSKS
